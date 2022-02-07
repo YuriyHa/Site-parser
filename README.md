@@ -4,7 +4,8 @@
 My site parser project by python, using python lib. BeautifulSoup
 
 # Function and methods
-get name, 
+get category, 
+    name, 
     description, 
     price, 
     images-links from shop products
